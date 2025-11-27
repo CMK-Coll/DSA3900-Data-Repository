@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source,Data estimated,Data estimation method
+2022-01-01 00:00:00,Kenya,Kenya,KE,53.90,116.49,86.72,86.72,Electricity Maps Estimation; IEA + Electricity Maps Estimation,true,ESTIMATED_GENERAL_PURPOSE_ZONE_MODEL
+2022-02-01 00:00:00,Kenya,Kenya,KE,68.58,138.79,83.11,83.11,Electricity Maps Estimation,true,ESTIMATED_GENERAL_PURPOSE_ZONE_MODEL
+2022-03-01 00:00:00,Kenya,Kenya,KE,65.55,133.86,83.85,83.85,Electricity Maps Estimation,true,ESTIMATED_GENERAL_PURPOSE_ZONE_MODEL
+2022-04-01 00:00:00,Kenya,Kenya,KE,41.53,96.55,89.77,89.77,Electricity Maps Estimation,true,ESTIMATED_GENERAL_PURPOSE_ZONE_MODEL
+2022-05-01 00:00:00,Kenya,Kenya,KE,38.33,91.33,90.56,90.56,Electricity Maps Estimation,true,ESTIMATED_GENERAL_PURPOSE_ZONE_MODEL
+2022-06-01 00:00:00,Kenya,Kenya,KE,39.10,92.61,90.37,90.37,Electricity Maps Estimation,true,ESTIMATED_GENERAL_PURPOSE_ZONE_MODEL
+2022-07-01 00:00:00,Kenya,Kenya,KE,48.54,106.73,88.04,88.04,IEA + Electricity Maps Estimation,true,ESTIMATED_GENERAL_PURPOSE_ZONE_MODEL
+2022-08-01 00:00:00,Kenya,Kenya,KE,48.16,106.21,88.14,88.14,IEA + Electricity Maps Estimation,true,ESTIMATED_GENERAL_PURPOSE_ZONE_MODEL
+2022-09-01 00:00:00,Kenya,Kenya,KE,48.17,106.40,88.13,88.13,IEA + Electricity Maps Estimation,true,ESTIMATED_GENERAL_PURPOSE_ZONE_MODEL
+2022-10-01 00:00:00,Kenya,Kenya,KE,49.14,108.25,87.90,87.90,IEA + Electricity Maps Estimation,true,ESTIMATED_GENERAL_PURPOSE_ZONE_MODEL
+2022-11-01 00:00:00,Kenya,Kenya,KE,50.92,111.67,87.46,87.46,IEA + Electricity Maps Estimation,true,ESTIMATED_GENERAL_PURPOSE_ZONE_MODEL
+2022-12-01 00:00:00,Kenya,Kenya,KE,50.64,111.20,87.53,87.53,IEA + Electricity Maps Estimation,true,ESTIMATED_GENERAL_PURPOSE_ZONE_MODEL

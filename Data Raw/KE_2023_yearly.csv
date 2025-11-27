@@ -1,0 +1,2 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source,Data estimated,Data estimation method
+2023-01-01 00:00:00,Kenya,Kenya,KE,41.71,96.95,89.73,89.73,IEA + Electricity Maps Estimation,true,ESTIMATED_GENERAL_PURPOSE_ZONE_MODEL
