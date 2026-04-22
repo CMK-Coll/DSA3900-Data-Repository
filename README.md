@@ -24,4 +24,5 @@ It attempts to correlate and predict trends based on observed data using regress
 
 ## Usage
 
-To access the code, run it via the Colab link and upload all data found in the "In Use" folder tree on GitHub.
+To access the code, run it via the Colab link and upload all data found in the "In Use" located in the 'Data Raw' File.
+
