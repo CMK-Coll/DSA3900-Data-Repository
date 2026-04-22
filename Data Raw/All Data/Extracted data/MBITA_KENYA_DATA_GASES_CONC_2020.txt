@@ -1,0 +1,50 @@
+#################################################################################################################################					
+#Originator: Galy-Lacaux Corinne, corinne.galy-lacaux@cnrs.fr, Laboratoire d'Aerologie, LAERO CNRS/UT3/IRD, 14 avenue Edouard Belin, ,31400 Toulouse, France					
+#Originator: Dias Alves Maria, maria.dias-alves@cnrs.fr, Laboratoire d'Aerologie, LAERO CNRS/UT3/IRD, 14 avenue Edouard Belin, ,31400 Toulouse, France					
+#Submitter: Francois Andre, francois.andre.2@cnrs.fr, Observatoire Midi-Pyrenees, OMP, SEDOO, 14 avenue Edouard Belin, ,31400 Toulouse, France					
+#Programme: INDAAF (International Network to study Deposition and Atmospheric chemistry in Africa) network, ACTRIS-FR (Aerosol, Clouds and Trace gases Research Infrastructure-France), GAW/WMO (Global Atmospheric Watch/World Meteorological Organization) contributing network					
+#Acknowledgement: Request acknowledgement details from data originator					
+#DOI: Galy-Lacaux, C., Delon, C., Bakayoko, A., Gardrat, E., Dias Alves, M. & Okumu, S. (2023).  Trace gases, Mbita, Kenya.  [dataset].  Aeris.  https://doi.org/10.25326/642
+#Data definition : HNO3 (Nitric acid), ppb, NO2 (Nitrogen Dioxyde), ppb, NH3 (Ammonia), ppb, SO2 (Sulfur Dioxide),ppb,  O3 (Ozone) ppb					
+#Sample duration : 1 month					
+#Period Code: 1 year					
+#Station: MBITA					
+#Country: KENYA					
+#Station other IDs: INDAAF (International Network to study Deposition and Atmospheric chemistry in Africa) network, ACTRIS-FR (Aerosol, Clouds and Trace gases Research Infrastructure-France), GAW/WMO (Global Atmospheric Watch/World Meteorological Organization) contributing network				"					
+#Station land use: 					
+#Station setting: RURAL					
+#Station latitude: -0.440000					
+#Station Longitude: 34.180000					
+#Station Altitude: 1125m					
+#Measurement height: 1.5m					
+#Matrix: cellulose filters					
+#Instrument type: passive samplers 					
+#Instrument name: INDAAF passive samplers					
+#Instrument manufacturer: Laboratoire d'Aerologie NF05L					
+#Analytical Laboratory code: FR05L           					
+#Analytical measurement technique: IC					
+#Analytical instrument manufacturer: Thermo Scientific					
+#Analytical instrument model:  ICS-1100 					
+#Analytical instrument serial number: 12060870					
+#Analytical instrument manufacturer: Thermo Scientific					
+#Analytical instrument model:  ICS-1000 					
+#Analytical instrument serial number: 03060021					
+#Detection limits (from field blanks): 0.07±0.03ppb (HNO3); 0.2±0.1ppb (NO2); 0.7±0.2ppb (NH3); 0.05±0.03ppb (SO2); 0.1±0.1ppb (O3)"					
+#Reproducibility (from covariance of duplicates samples): 20% (HNO3); 9.8% (NO2); 14.3% (NH3); 16.6% (SO2); 10% (O3)"					
+#Blank correction: field blank corrected					
+#Missing value: blank cell					
+##################################################################################################################################					
+					
+Date	HNO3	NO2	NH3	SO2	O3
+2020-01	0.80	2.29	6.00	0.13	27.74
+2020-02	0.58	2.25	4.99		18.24
+2020-03	1.14	1.50	6.23	0.26	21.41
+2020-04	0.92	1.50	6.29	0.23	19.74
+2020-05					
+2020-06	0.42	1.90	6.90	0.05	22.65
+2020-07	0.48	1.94	6.56	0.05	26.00
+2020-08	0.41	1.46	4.93	0.08	17.63
+2020-09	0.69	2.03	5.41	0.10	26.53
+2020-10	1.10		6.48	0.12	11.00
+2020-11	0.41	1.06	3.95		11.67
+2020-12	0.62	1.47	5.44	0.09	21.98
